@@ -13,3 +13,4 @@ node_modules
 npm-debug.log*
 _templates/
 _drafts/
+Gemfile.lock

@@ -20,7 +20,7 @@ title                    : "That Exact Mike"
 title_separator          : "-"
 name                     : "Mike Campbell"
 description              : "Adventures in DevOps, PowerShell, Mergers & Acquisitions, Identity, Cloud, Azure, Exchange, Active Directory, Office 365 and more."
-url                      : "https://exactblog.z20.web.core.windows.net" # the base hostname & protocol for your site e.g.
+url                      : "https://www.thatexactmike.com" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "exactmike/ThatExactMike" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : exactmike
 facebook:
   username               :
   app_id                 :
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mike Campbell"
+  name             : Mike Campbell
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Test bio."
-  location         : "South Carolina"
-  email            : "mike@exactsolutions.biz"
+  bio              : Test bio.
+  location         : Upstate, SC, USA
+  email            : #"mike@exactsolutions.biz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,14 +116,14 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/exactmike"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/exactmike"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
 
 # Site Footer
