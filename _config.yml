@@ -103,7 +103,7 @@ analytics:
 author:
   name             : Mike Campbell
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Test bio.
+  bio              : follower of Christ, husband, father, IT consultant and trainer, merger and acquisition specialist, devops/PowerShell enthusiast
   location         : Upstate, SC, USA
   email            : #"mike@exactsolutions.biz"
   links:
@@ -112,7 +112,7 @@ author:
       url: "mailto:mike@exactsolutions.biz"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://www.exactsolutions.biz"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/exactmike"
@@ -125,6 +125,9 @@ author:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/thatexactmike"
 
 # Site Footer
 footer:
@@ -138,6 +141,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/exactmike"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/thatexactmike"
    # - label: "GitLab"
    #   icon: "fab fa-fw fa-gitlab"
       # url:

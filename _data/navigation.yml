@@ -1,5 +1,11 @@
 main:
+  - title: "About"
+    url: /about/
+  - title: "Tags"
+    url: /tags/
   - title: "Posts"
     url: /archive/
-  - title: "External Link"
+  - title: "Featured Modules"
+    url: /modules/
+  - title: "Exact"
     url: http://www.exactsolutions.biz
