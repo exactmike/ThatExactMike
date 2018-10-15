@@ -1,0 +1,8 @@
+- name: OneShell
+  description: 'PowerShell module for managing credentials for and connectivity to multiple systems such as Exchange, Skype, Teams, AzureAD, etc..'
+  help: 'Comment based'
+  onlinehelp: false
+  updatablehelp: false
+  pester: false
+  build: false
+  psgallery: false

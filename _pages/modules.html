@@ -1,11 +1,11 @@
 ---
 permalink: /modules/
-title: Featured Modules
+title: Featured PowerShell Modules
 search: true
 layout: single
 ---
 
-{% for module in site.data.mymodules %}
+{% for module in site.data.featuredmodules %}
     <h2>{{ module.name }}</h2>
 
     <p>{{ module.description }}</p>
@@ -66,7 +66,7 @@ layout: single
             </tr>
             <tr>
                 <td>GitHub Repo</td>
-                <td><a href="https://github.com/thedavecarroll/{{ module.name }}" target="_blank">{{ module.name }}</a></td>
+                <td><a href="https://github.com/exactmike/{{ module.name }}" target="_blank">{{ module.name }}</a></td>
             </tr>
             <tr>
                 <td>PowerShell Gallery</td>
