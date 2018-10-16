@@ -103,7 +103,7 @@ analytics:
 author:
   name             : Mike Campbell
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : follower of Christ, husband, father, IT consultant and trainer, merger and acquisition specialist, devops/PowerShell enthusiast
+  bio              : follower of Jesus (by his grace), husband, father, IT consultant and trainer, merger and acquisition specialist, devops/PowerShell enthusiast
   location         : Upstate, SC, USA
   email            : #"mike@exactsolutions.biz"
   links:
@@ -294,3 +294,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      header:
+        image: /assets/images/Panoraspen.jpg

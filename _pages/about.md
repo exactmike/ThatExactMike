@@ -2,7 +2,8 @@
 layout: single
 title: "About Me"
 permalink: /about/
-search: true
+header:
+    image: /assets/images/AboveLemonReservoirDurango.jpg
 ---
 
 I first got hooked by PowerShell in 2007 when learning Exchange 2007, Microsoft's first product to embed the new shell thoroughly into it's DNA.
