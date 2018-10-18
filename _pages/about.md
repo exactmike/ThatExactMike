@@ -19,9 +19,9 @@ My family and I live near Greenville, South Carolina (4th fastest growing city i
 
 - friendships with others in our local church(es)
 - volunteering with our local mountain bike organization (Upstate SORBA)
-- mountain biking (mostly XC with a bit of Trail), including the occasional race
+- mountain biking (mostly XC some Trail), the occasional race
 - stand up paddleboarding (SUP)
-- reading (huge variety of stuff and I include here listening to audiobooks)
+- reading or listenting to books (wide variety of genres)
 - road cycling
 - playing various XBOX games with my kids
 - running (every once in a while . . .)

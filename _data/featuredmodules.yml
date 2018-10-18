@@ -6,3 +6,27 @@
   pester: false
   build: false
   psgallery: false
+- name: ExchangePermissionsExport
+  description: 'Module with improved functions for Exchange Permissions Export for documentation or complex migrations such as Tenant to Tenant.'
+  help: 'Comment based'
+  onlinehelp: false
+  updatablehelp: false
+  pester: false
+  build: false
+  psgallery: false
+- name: OutSpeech
+  description: 'OutSpeech is a PowerShell module that provides functions Out-Speech and Export-Speech, Speech Output Configurations, and several supporting functions.'
+  help: 'Comment based'
+  onlinehelp: false
+  updatablehelp: false
+  pester: false
+  build: false
+  psgallery: false
+- name: poshRSJobFlowManager
+  description: 'Add-on module for PoshRSJob to manage job sets which need to be run in parallel and / or in a specific order and / or with dependencies'
+  help: 'Comment based'
+  onlinehelp: false
+  updatablehelp: false
+  pester: false
+  build: false
+  psgallery: false

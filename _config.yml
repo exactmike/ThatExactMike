@@ -292,6 +292,9 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
+      toc: true
+      toc_label: On This Page
+      toc_icon: fast-forward
       share: true
       related: true
       header:
