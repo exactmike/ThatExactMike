@@ -23,17 +23,17 @@ Warning/Danger: As far as I can tell there is not an 'officially supported' way 
 # steps
 
 - Move the mailbox(es) to Exhange Online
-    - I used a hybrid move and used both standalone move request(s) and a migration batch to move different mailboxes during this operation.  Both worked fine.
+  - I used a hybrid move and used both standalone move request(s) and a migration batch to move different mailboxes during this operation.  Both worked fine.
 - Remove the user object from synchronization with Azure AD.  
-    - warning: this will disrupt your ability to access the mailbox and may disrupt (briefly) mail flow to the mailbox
-    - options:
-        - delete the user from AD
-        - modify the sync scope to exclude an OU where the object resides in AD (this is what I did)
+  - warning: this will disrupt your ability to access the mailbox and may disrupt (briefly) mail flow to the mailbox
+  - options:
+    - delete the user from AD
+    - modify the sync scope to exclude an OU where the object resides in AD (this is what I did)
 - Restore the user object from the Azure AD recycle bin
-    - use Restore-Msoluser or Restore-AzureADMSDeletedDirectoryObject
-    - use the AzureAD or Microsoft 365 portal
+  - use Restore-Msoluser or Restore-AzureADMSDeletedDirectoryObject
+  - use the AzureAD or Microsoft 365 portal
 - Re-apply a license to the user object for the workload(s) you intend to keep using in Azure AD / Microsoft 365
-- Set the ImmutableID of the object to be a blank string.  Do NOT set it to $null.  That will seem to work, but it will silently fail (no errors, no warnings.) I tried using the Azure AD module to do this but a blank string fails with that module and $null fails silently. 
+- Set the ImmutableID of the object to be a blank string.  Do NOT set it to $null.  That will seem to work, but it will silently fail (no errors, no warnings.) I tried using the Azure AD module to do this but a blank string fails with that module and $null fails silently.
   
     ```powershell
 
