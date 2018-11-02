@@ -3,7 +3,7 @@ title: "Start-Jekyll_AzureDevOps_Blog"
 excerpt: "Blogging with Jekyll, Azure DevOps, Github, Azure Storage and Cloudflare."
 date: 2018-10-17
 last_modified_at: 2018-10-23
-comments: false
+comments: true
 tags:
   - blog
   - jekyll

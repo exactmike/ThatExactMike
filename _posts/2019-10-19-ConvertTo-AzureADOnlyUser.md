@@ -2,7 +2,8 @@
 title: "ConvertTo-AzureADOnlyUser"
 excerpt: "converting a user that was connected with on premises Active Directory to be a stand alone cloud / Azure AD user"
 date: 2018-10-24
-comments: false
+last_modified_at: 2018-11-02
+comments: true
 tags:
   - AzureAD
   - Office365
@@ -39,3 +40,7 @@ Warning/Danger: As far as I can tell there is not an 'officially supported' way 
     Set-MSOLUser -UserPrincipalName [the upn of your object] -ImmutableID ''
 
     ```
+
+# feedback
+
+Do you know a better or supported way to accomplish conversion of a user to an AzureAD Only user?
