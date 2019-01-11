@@ -2,7 +2,7 @@
 title: "Start-Jekyll_AzureDevOps_Blog"
 excerpt: "Blogging with Jekyll, Azure DevOps, Github, Azure Storage and Cloudflare."
 date: 2018-10-17
-last_modified_at: 2018-10-23
+last_modified_at: 2019-01-10
 comments: true
 tags:
   - blog
@@ -40,7 +40,7 @@ I used the design of this blog and it's workflow to help me learn more about dev
 
 ## initial setup process
 
-Getting up and running with ubuntu, ruby, jekyll and git was pretty easy (what I'll call the baseline dev environment here).  It literally took just a few minutes to get to the point of locally running a jekyll site.  Being new to how jekyll templates work, the tricky part was getting my chosen template, Minimal Mistakes 'installed'.  
+Getting up and running with ubuntu, ruby, jekyll and git was pretty easy (what I'll call the baseline dev environment here).  It literally took just a few minutes to get to the point of locally running a jekyll site.  Being new to how jekyll templates work, the tricky part was getting my chosen template, Minimal Mistakes 'installed'.
 
 ### getting the baseline dev environment up and running
 
@@ -89,7 +89,7 @@ Note: To contain the site files I used a directory under my Windows user profile
 
 ### getting linux vscode working on ubuntu/windows
 
-I followed this [gist](https://gist.github.com/fdmnio/604c6b811939468fdad06e3fbba942ed#file-run-visual-studio-code-for-linux-from-wsl-md) to get an xserver running and to install/run vs code.
+I followed this [gist](https://gist.github.com/fedme/604c6b811939468fdad06e3fbba942ed) to get an xserver running and to install/run vs code.
 
 ### getting Minimal-Mistakes installed
 
