@@ -55,7 +55,6 @@ Invoke-WebRequest -Uri https://aka.ms/wsl-ubuntu-1804 -OutFile Ubuntu.appx -UseB
 
 #### from Ubuntu
 
-
 ```bash
 
 # update/upgrade unbuntu
@@ -128,8 +127,6 @@ From there I followed the [instructions](https://mmistakes.github.io/minimal-mis
 ## the release pipeline
 
 using Github integration with Azure Devops Pipelines (Build and Release) ... more detail soon. However, in the meantime, [this series of posts](https://www.forevolve.com/en/articles/2018/07/10/how-to-deploy-and-host-a-jekyll-website-in-azure-blob-storage-using-a-vsts-continuous-deployment-pipeline-part-4/) got me started.
-
-
 
 ## ongoing workflow
 
