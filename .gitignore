@@ -14,3 +14,4 @@ npm-debug.log*
 _templates/
 _drafts/
 Gemfile.lock
+vendor/bundle

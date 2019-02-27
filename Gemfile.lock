@@ -104,8 +104,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll-gist
   jekyll-include-cache
   minimal-mistakes-jekyll
 
 BUNDLED WITH
-   1.16.5
+   2.0.1
