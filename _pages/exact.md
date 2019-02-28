@@ -4,9 +4,8 @@ title: "About Exact Solutions"
 author_profile: true
 permalink: /exact/
 header:
-    image: /assets/images/BurnedArea.jpg
+    image: /assets/images/XHiRes.jpg
 ---
-
 ## contact info
 
 |Type|Value|
@@ -17,6 +16,8 @@ header:
 
 ## history
 
-Exact Solutions (also just 'Exact') is Mike's personal brand. Exact Technical Solutions was originally started in 1996 as a hobby. Between now and back then in 1996, Exact has been through a number of iterations, including Small Business Server consuting, Web and Application/Database development,  Microsoft Training provider, Microsoft Exchange Consulting and Training, PowerShell and Automation specialization, and consulting sub-contractors to well-known Microsoft Partners.
+Exact Solutions (also just 'Exact') is currently Mike's personal brand. Exact Technical Solutions was originally started in 1996 as a hobby. Between now and back then, Exact has been through a number of iterations, including Small Business Server consuting, Web and Application/Database development,  Microsoft Training provider, Microsoft Exchange Consulting and Training, PowerShell and Automation specialization, and consulting sub-contractors to well-known Microsoft Partners.
 
 Exact (and Mike) have been blessed to have so many outstanding partners (internal and external) and customers over the years.
+
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/LogoHiRes.jpg)
