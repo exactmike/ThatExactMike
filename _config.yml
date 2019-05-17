@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : exactmike
+  username               : thatexactmike
 facebook:
   username               :
   app_id                 :
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : Mike Campbell
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : follower of Jesus (by his grace), husband, father, IT consultant and trainer, merger and acquisition specialist, devops/PowerShell enthusiast
+  bio              : follower of Jesus (by his grace), husband, father, IT architect and trainer, automation engineer, merger and acquisition specialist, devops/PowerShell enthusiast, bike rider (MTB, gravel, road).
   location         : Upstate, SC, USA
   email            : #"mike@exactsolutions.biz"
   links:
@@ -112,7 +112,7 @@ author:
       url: "mailto:mike@exactsolutions.biz"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/exactmike"
+      url: "https://twitter.com/thatexactmike"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
