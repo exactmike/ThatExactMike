@@ -107,9 +107,9 @@ author:
   location         : Upstate, SC, USA
   email            : #"mike@exactsolutions.biz"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mike@exactsolutions.biz"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:mike@exactsolutions.biz"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thatexactmike"
